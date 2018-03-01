@@ -9,13 +9,13 @@ npm install
 
 ## Start Server
 ```
-npm run server
+npm start
 ```
-It will run node server on port `8011`
+It will run node server on port `5000`
 
 ## Start React app
 ```
-npm start
+npm run app
 ```
 It will open browser tab automatically on port `3000`
 
