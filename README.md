@@ -9,7 +9,7 @@ npm install
 
 ## Start Server
 ```
-npm start
+npm run server
 ```
 It will run node server on port `5000`
 
