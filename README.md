@@ -26,3 +26,7 @@ It will open browser tab automatically on port `3000`
 
 ### Server
 - I am using **node-express** server here and `server/index.js` contains the server side code.
+
+
+### Data
+- I have used [JSON data generator](json-generator.com) to generate the fake data. Data file can be easily replaced with the real products data.
