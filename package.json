@@ -14,7 +14,8 @@
     "react-scripts": "1.1.1"
   },
   "scripts": {
-    "start": "node server/index.js",
+    "start": "npm run build && npm run server",
+    "server": "node server/index.js",
     "app": "REACT_APP_BASE_URL=http://localhost:5000 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
